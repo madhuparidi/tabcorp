@@ -1,4 +1,4 @@
-package au.com.tabcorp.data;
+package au.com.tabcorp.data.models;
 
 import java.io.Serializable;
 import java.math.BigDecimal;
