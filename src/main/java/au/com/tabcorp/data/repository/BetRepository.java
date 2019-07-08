@@ -1,4 +1,4 @@
-package au.com.tabcorp.data;
+package au.com.tabcorp.data.repository;
 
 import java.util.List;
 

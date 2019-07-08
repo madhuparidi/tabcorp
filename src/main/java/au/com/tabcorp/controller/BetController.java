@@ -1,4 +1,4 @@
-package au.com.tabcorp.data;
+package au.com.tabcorp.controller;
 
 import java.util.List;
 import javax.validation.Valid;
