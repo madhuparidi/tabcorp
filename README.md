@@ -1,4 +1,3 @@
-# tabcorp
 Tabcorp Bet Api
 Instructions to start the application:
 1. Navigate to the folder with pom.xml 
