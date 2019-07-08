@@ -1,4 +1,4 @@
-package au.com.tabcorp.data;
+package au.com.tabcorp.data.models;
 
 public class BetsByType {
 	String betType;
