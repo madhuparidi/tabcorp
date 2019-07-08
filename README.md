@@ -2,6 +2,7 @@ Tabcorp Bet Api
 Instructions to start the application:
 1. Navigate to the folder with pom.xml 
 2. type mvnw ./springboot:run
+3. Swagger documentation can be browsed at http://localhost:8080/swagger-ui.html#/
 
 Assumptions:
 1. HATEOS REST API is not considered as a mandatory requirement.

@@ -17,6 +17,11 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import au.com.tabcorp.data.error.BetTypeNotFoundException;
+import au.com.tabcorp.data.models.Bet;
+import au.com.tabcorp.data.models.BetsByType;
+import au.com.tabcorp.data.models.InvestmentByCustomer;
+import au.com.tabcorp.data.models.InvestmentByType;
+import au.com.tabcorp.data.repository.BetRepository;
 
 @RestController
 public class BetController {
